@@ -2,7 +2,7 @@
 
 **Struktur Package & Module**
 
-![package](assets/img/gambar6.png)
+![package](assets/img/1.png)
 
 **Penjelasan:**
 
