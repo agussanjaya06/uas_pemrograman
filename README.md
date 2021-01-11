@@ -2,7 +2,7 @@
 
 **Struktur Package & Module**
 
-![package](img/gambar6.png)
+![package](assets/img/gambar6.png)
 
 **Penjelasan:**
 
@@ -101,25 +101,25 @@ while True:
 
 Tambah data
 
-![output-praktikum-5](img/gambar1.png)
+![output-praktikum-5](assets/img/gambar1.png)
 
 
 Ubah data
 
-![output-praktikum-5](img/gambar2.png)
+![output-praktikum-5](assets/img/gambar2.png)
 
 
 Lihat data
 
-![output-praktikum-5](img/gambar3.png)
+![output-praktikum-5](assets/img/gambar3.png)
 
 
 Cari data
 
-![output-praktikum-5](img/gambar4.png)
+![output-praktikum-5](assets/img/gambar4.png)
 
 
 Hapus data
 
-![output-praktikum-5](img/gambar5.png)
+![output-praktikum-5](assets/img/gambar5.png)
 
