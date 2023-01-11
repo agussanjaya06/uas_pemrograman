@@ -1,6 +1,7 @@
 from model.daftar_nilai import *
 from view.view_nilai import *
 
+
 #Mulai
 print("===============================================================")
 print("|                           Program 1                         |")
